@@ -14,7 +14,7 @@
     },
     "suggest": {
         "netwing/selenium-server-standalone": "dev-master",
-        "facebook/webdriver": "dev-master"
+        "php-webdriver/webdriver": "dev-master"
     },
     "autoload": {
         "psr-4": {
